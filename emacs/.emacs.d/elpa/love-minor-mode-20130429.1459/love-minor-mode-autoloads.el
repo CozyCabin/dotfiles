@@ -1,10 +1,10 @@
 ;;; love-minor-mode-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-(add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "love-minor-mode" "love-minor-mode.el" (22222
-;;;;;;  2905 82186 28000))
+;;;### (autoloads nil "love-minor-mode" "love-minor-mode.el" (22858
+;;;;;;  51830 720969 430000))
 ;;; Generated autoloads from love-minor-mode.el
 
 (autoload 'love-minor-mode "love-minor-mode" "\
