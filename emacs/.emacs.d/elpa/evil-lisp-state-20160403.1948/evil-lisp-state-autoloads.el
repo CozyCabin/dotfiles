@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil nil ("evil-lisp-state.el") (22853 43654 836669
-;;;;;;  286000))
+;;;### (autoloads nil nil ("evil-lisp-state.el") (22897 14981 793284
+;;;;;;  842000))
 
 ;;;***
 
