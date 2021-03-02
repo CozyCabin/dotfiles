@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/tinystego/projects/python/automate_boring_stuff'
+let g:netrw_dirhist_2='/home/tinystego/scripts'
+let g:netrw_dirhist_1='/home/tinystego/scripts/disc_stream.sh'
