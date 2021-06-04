@@ -1,0 +1,63 @@
+
+GuidelimeDataChar = {
+	["mainFrameHeight"] = 237,
+	["showUnavailableSteps"] = true,
+	["guideSkip"] = {
+		["Flymolo's Outland Leveling Guide 58-61 -Part 1- Flymolo's Alliance Guide"] = {
+			true, -- [1]
+			[73] = true,
+			[33] = true,
+			[52] = true,
+			[74] = true,
+			[8] = true,
+			[45] = true,
+			[32] = true,
+			[68] = true,
+			[3] = true,
+			[6] = true,
+			[75] = true,
+		},
+		["Flymolo's Outland Leveling Guide 58-61 -Part 2- Flymolo's Alliance Guide"] = {
+			true, -- [1]
+			[11] = true,
+			[38] = true,
+			[33] = true,
+			[34] = true,
+			[86] = true,
+		},
+		["Flymolo's Outland Leveling Guide 61-63 Flymolo's Alliance Guide"] = {
+		},
+	},
+	["completedSteps"] = {
+		[8] = true,
+		[4] = true,
+		[15] = true,
+	},
+	["arrowY"] = -3.333300113677979,
+	["arrowRelative"] = "TOP",
+	["mainFrameX"] = -117.3333969116211,
+	["mainFrameLocked"] = false,
+	["mainFrameWidth"] = 348,
+	["arrowLocked"] = false,
+	["editorFrameY"] = 0,
+	["showCompletedSteps"] = false,
+	["arrowAlpha"] = 0.8,
+	["arrowSize"] = 64,
+	["mainFrameAlpha"] = 0.5,
+	["currentGuide"] = "Flymolo's Outland Leveling Guide 61-63 Flymolo's Alliance Guide",
+	["mainFrameFontSize"] = 14,
+	["arrowX"] = 159.9998626708984,
+	["mainFrameY"] = 19.33318710327148,
+	["mainFrameShowScrollBar"] = true,
+	["showArrow"] = true,
+	["version"] = "2.016",
+	["editorFrameRelative"] = "CENTER",
+	["mainFrameShowing"] = true,
+	["guideSize"] = {
+		["Flymolo's Outland Leveling Guide 58-61 -Part 1- Flymolo's Alliance Guide"] = 94,
+		["Flymolo's Outland Leveling Guide 58-61 -Part 2- Flymolo's Alliance Guide"] = 109,
+		["Flymolo's Outland Leveling Guide 61-63 Flymolo's Alliance Guide"] = 174,
+	},
+	["mainFrameRelative"] = "BOTTOMRIGHT",
+	["editorFrameX"] = 0,
+}

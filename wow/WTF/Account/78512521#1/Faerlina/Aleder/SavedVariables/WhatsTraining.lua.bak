@@ -1,0 +1,73 @@
+
+WT_LearnedPetAbilities = {
+	["Frost Resistance"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 1"] = true,
+		["Rank 2"] = true,
+	},
+	["Great Stamina"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 6"] = true,
+		["Rank 7"] = true,
+		["Rank 1"] = true,
+		["Rank 5"] = true,
+		["Rank 9"] = true,
+		["Rank 8"] = true,
+		["Rank 2"] = true,
+	},
+	["Shadow Resistance"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 1"] = true,
+		["Rank 2"] = true,
+	},
+	["Fire Resistance"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 1"] = true,
+		["Rank 2"] = true,
+	},
+	["Growl"] = {
+		["Rank 3"] = true,
+		["Rank 1"] = true,
+		["Rank 5"] = true,
+		["Rank 6"] = true,
+		["Rank 4"] = true,
+		["Rank 2"] = true,
+	},
+	["Nature Resistance"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 1"] = true,
+		["Rank 2"] = true,
+	},
+	["Natural Armor"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 6"] = true,
+		["Rank 7"] = true,
+		["Rank 1"] = true,
+		["Rank 5"] = true,
+		["Rank 9"] = true,
+		["Rank 8"] = true,
+		["Rank 2"] = true,
+	},
+	["Arcane Resistance"] = {
+		["Rank 3"] = true,
+		["Rank 4"] = true,
+		["Rank 1"] = true,
+		["Rank 2"] = true,
+	},
+	["Claw"] = {
+		["Rank 8"] = true,
+		["Rank 2"] = true,
+	},
+	["Cobra Reflexes"] = {
+	},
+	["Avoidance"] = {
+		["Rank 1"] = true,
+	},
+}
+WT_NeedsToOpenBeastTraining = false

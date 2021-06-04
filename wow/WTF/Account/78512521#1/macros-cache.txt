@@ -1,0 +1,41 @@
+VER 3 0000000000000003 "Auto Shot" "132162"
+#showtooltip Auto Shot
+/cast !Auto Shot
+END
+VER 3 0000000000000006 "Bjarn" "INV_MISC_QUESTIONMARK"
+/target Ursius
+END
+VER 3 0000000000000004 "Initiate" "132147"
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Hunter's Mark
+/cast !Auto Shot
+/petattack
+/cast Charge
+/cast Dash
+/cast Dive
+END
+VER 3 0000000000000001 "latency" "INV_MISC_QUESTIONMARK"
+/run print("Current Latency: "..select(4,GetNetStats()).."ms.")
+END
+VER 3 0000000000000002 "Pet Attack" "132143"
+#showtooltip Hunter's Mark
+/petattack
+/cast Hunter's Mark
+END
+VER 3 0000000000000007 "Pet Attack" "132152"
+/petattack
+END
+VER 3 0000000000000009 "Pet Defensive" "132341"
+/petdefensive
+END
+VER 3 0000000000000008 "Pet Follow" "132328"
+/petfollow
+END
+VER 3 000000000000000A "Pet Passive" "132311"
+/petpassive
+END
+VER 3 0000000000000005 "Pet Return" "132120"
+/petpassive
+/petdefensive
+END
